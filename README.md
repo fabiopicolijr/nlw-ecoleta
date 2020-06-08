@@ -1,4 +1,4 @@
-<h1 align="center"><img src="nlw-01-web/src/assets/banner.png"></h1>
+<h1 align="center"><img src="https://github.com/fabiopicolijr/nlw-01-web/blob/9277bde024b7eb3d062acf10198ff4970309f1b7/src/assets/banner.png"></h1>
 
 <h4 align="center">
   🚀 Rocketseat Next Level Week #1 - Ecoleta
