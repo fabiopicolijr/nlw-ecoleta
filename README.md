@@ -5,12 +5,6 @@
 </h4>
 
 <p align="center">
-  <img alt="Repo Size" title="Repo Size" src="https://img.shields.io/github/repo-size/fabiopicolijr/nlw-ecoleta?color=282A36" />
-
-  <img alt="Languages" title="Languages" src="https://img.shields.io/github/languages/count/fabiopicolijr/nlw-ecoleta?color=282A36" />
-
-  <img alt="Language top" title="Language top" title="Made By fabiopicolijr"  src="https://img.shields.io/github/languages/top/fabiopicolijr/nlw-ecoleta?color=282A36" />
-
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=282A36">
 
   <a href="https://github.com/fabiopicolijr">
@@ -51,32 +45,26 @@ See project's layout at [nlw-ecoleta-layout](https://www.figma.com/file/1SxgOMoj
 ```bash
 
   # BACK-END - Install dependencies
-  $ cd nlw-01-server
+  $ cd server
   yarn install
 
   # BACK-END - Run test suits
   yarn test
 
-  # BACK-END - Start application
-  yarn dev
-
   ######
 
   # FRONT-END-WEB - Install dependencies
-  $ cd nlw-01-web
-  $ yarn start
+  $ cd web
+  $ yarn install
 
   # FRONT-END-WEB - Start application
-  $ yarn dev
+  $ yarn start
 
   ######
 
   # FRONT-END-MOBILE - Install dependencies
-  $ cd nlw-01-mobile
-  $ yarn start
-
-  # FRONT-END-MOBILE - Run test suits
-  $ yarn test
+  $ cd mobile
+  $ yarn install
 
   # FRONT-END-MOBILE - Start application
   $ expo start
