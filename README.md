@@ -19,8 +19,6 @@
   <a href="#memo-license">License</a>
 </p>
 
-<br />
-
 ---
 
 ##  :fire: About the project
@@ -48,8 +46,8 @@ See project's layout at [nlw-ecoleta-layout](https://www.figma.com/file/1SxgOMoj
   $ cd server
   yarn install
 
-  # BACK-END - Run test suits
-  yarn test
+  # BACK-END - Start app
+  yarn dev:server
 
   ######
 
@@ -57,7 +55,7 @@ See project's layout at [nlw-ecoleta-layout](https://www.figma.com/file/1SxgOMoj
   $ cd web
   $ yarn install
 
-  # FRONT-END-WEB - Start application
+  # FRONT-END-WEB - Start web app
   $ yarn start
 
   ######
@@ -66,7 +64,7 @@ See project's layout at [nlw-ecoleta-layout](https://www.figma.com/file/1SxgOMoj
   $ cd mobile
   $ yarn install
 
-  # FRONT-END-MOBILE - Start application
+  # FRONT-END-MOBILE - Start mobile app
   $ expo start
 ```
 <br />
