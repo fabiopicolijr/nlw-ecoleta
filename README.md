@@ -67,10 +67,10 @@
 ```bash
 
  # Install dependencies
-  $ cd web
+  $ cd mobile
   $ yarn install
 
-  # Start web app (React Native - Android/iOS)
+  # Start mobile app (React Native - Android/iOS)
   $ expo start
 
   #Install expo on your mobile
