@@ -74,7 +74,7 @@
   $ expo start
 
   #Install expo on your mobile
-  #Read Expo QRCode on your mobile 
+  #Read Expo QRCode on your mobile
 
 ```
 ---
