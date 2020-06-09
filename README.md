@@ -15,8 +15,8 @@
 <p align="center">
   <a href="#fire-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#electric_plug-server-api-rest">Server API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#earth-americas-web-app">Web App</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#electric_plug-mobile-app">Mobile App</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#earth_americas-web-app">Web App</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iphone-mobile-app">Mobile App</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -30,7 +30,7 @@
 
 ---
 
-##  :memo: Server API REST
+##  :electric_plug: Server API REST
 
 ```bash
 
