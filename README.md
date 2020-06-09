@@ -25,7 +25,7 @@
 ##  :fire: About the project
 
 <p>
-  <b>Ecoleta</b> is a project that aims to bring people closer to the waste collection institutions existing in municipalities in any state in Brazil. This application contains: Server API REST (Node.js), Web App (React) and Mobile App (React Native - Android/iOS).
+  <b>Ecoleta</b> is a project that aims to bring people closer to the waste collection institutions existing in municipalities in any state in Brasil. This application contains: Server API REST (Node.js), Web App (React) and Mobile App (React Native - Android/iOS).
 </p>
 
 ---
