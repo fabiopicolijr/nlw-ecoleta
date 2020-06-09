@@ -14,8 +14,9 @@
 
 <p align="center">
   <a href="#fire-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#art-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#electric_plug-how-to-run">How-to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#electric_plug-server-api-rest">Server API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#earth-americas-web-app">Web App</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#electric_plug-mobile-app">Mobile App</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -24,66 +25,58 @@
 ##  :fire: About the project
 
 <p>
-  <b>Ecoleta</b> is a project that aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
+  <b>Ecoleta</b> is a project that aims to bring people closer to the waste collection institutions existing in municipalities in any state in Brazil. This application contains: Server API REST (Node.js), Web App (React) and Mobile App (React Native - Android/iOS).
 </p>
-<br />
 
 ---
 
-##  :art: Layout
-
-See project's layout at [nlw-ecoleta-layout](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta). Remember that you will have to login or create an account at [Figma](http://figma.com/).
-<br />
-<br />
-
----
-
-## :electric_plug: How-to run
+##  :memo: Server API REST
 
 ```bash
 
-  # BACK-END - Install dependencies
+  git clone "<this-repository>"
+
+  # Install dependencies
   $ cd server
   yarn install
 
-  # BACK-END - Start app
+  # Start server
   yarn dev:server
 
-  ######
-
-  # FRONT-END-WEB - Install dependencies
-  $ cd web
-  $ yarn install
-
-  # FRONT-END-WEB - Start web app
-  $ yarn start
-
-  ######
-
-  # FRONT-END-MOBILE - Install dependencies
-  $ cd mobile
-  $ yarn install
-
-  # FRONT-END-MOBILE - Start mobile app
-  $ expo start
 ```
-<br />
 
 ---
 
-## :traffic_light: Status Codes
+##  :earth_americas: Web App
 
-Be the hero returns the following status codes in its API:
+```bash
 
-| Status Code | Description |
-| :--- | :--- |
-| <span style="color:green;">200</span> | `OK` |
-| <span style="color:red;">422</span> | `UNPROCESSABLE ENTITY` |
-| <span style="color:red;">400</span> | `BAD REQUEST` |
-| <span style="color:red;">404</span> | `NOT FOUND` |
-| <span style="color:red;">500</span> | `INTERNAL SERVER ERROR` |
-<br />
+ # Install dependencies
+  $ cd web
+  $ yarn install
 
+  # Start web app (React)
+  $ yarn start
+
+```
+
+---
+
+##  :iphone: Mobile App
+
+```bash
+
+ # Install dependencies
+  $ cd web
+  $ yarn install
+
+  # Start web app (React Native - Android/iOS)
+  $ expo start
+
+  #Install expo on your mobile
+  #Read Expo QRCode on your mobile 
+
+```
 ---
 
 ## :memo: License
