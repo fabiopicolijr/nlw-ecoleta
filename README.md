@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://github.com/fabiopicolijr/nlw-01-web/blob/9277bde024b7eb3d062acf10198ff4970309f1b7/src/assets/banner.png"></h1>
 
 <h4 align="center">
-  🚀 Rocketseat Next Level Week #1 - Ecoleta
+  🚀 &nbsp;&nbsp;Rocketseat Next Level Week #1 - Ecoleta
 </h4>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ---
 
-##  :fire: About the project
+##  :fire: &nbsp;&nbsp;About the project
 
 <p>
   <b>Ecoleta</b> is a project that aims to bring people closer to the waste collection institutions existing in municipalities in any state in Brasil. This application contains: Server API REST (Node.js), Web App (React) and Mobile App (React Native - Android/iOS).
@@ -30,7 +30,7 @@
 
 ---
 
-##  :electric_plug: Server API REST
+##  :electric_plug: &nbsp;&nbsp;Server API REST
 
 ```bash
 
@@ -47,7 +47,7 @@
 
 ---
 
-##  :earth_americas: Web App
+##  :earth_americas: &nbsp;&nbsp;Web App
 
 ```bash
 
@@ -62,7 +62,7 @@
 
 ---
 
-##  :iphone: Mobile App
+##  :iphone: &nbsp;&nbsp;Mobile App
 
 ```bash
 
@@ -80,7 +80,7 @@
 ```
 ---
 
-## :memo: License
+## :memo: &nbsp;&nbsp;License
 
 MIT License. See the file [LICENSE](LICENSE.md) for more details.
 <br />
